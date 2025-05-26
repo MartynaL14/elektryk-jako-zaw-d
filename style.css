@@ -1,0 +1,94 @@
+	#header{
+        color:white;
+        font-size: 25px;
+        background-color: rgb(243, 164, 201);
+        border: 0.5px solid white;
+		text-align: center;
+        
+    }
+    .a{
+        color:BLACK;
+        font-size: 15px;
+        background-color: #FFCDD2;
+        border-bottom: 0.3px solid black;
+        border-top: 0.3px solid black;
+		text-align: center;
+    }
+    .b{
+        color:black;
+        font-size:15px;
+        background-color: #F48FB1;
+        border-bottom: 0.3px solid black;
+        border-top: 0.3px solid black;
+		text-align: center;
+    }
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #9F2B68;
+  color: white;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+  background: white;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h1, h2 {
+  color: #FFC0CB;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table, th, td {
+  border: 1px solid #333;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+ul {
+  list-style: square;
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #9F2B68;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+zdjecie {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border: 3px solid #003366;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}

@@ -9,7 +9,7 @@
     .a{
         color:BLACK;
         font-size: 15px;
-        background-color: #FFCDD2;
+        background-color: #89CFF0;
         border-bottom: 0.3px solid black;
         border-top: 0.3px solid black;
 		text-align: center;
@@ -17,7 +17,7 @@
     .b{
         color:black;
         font-size:15px;
-        background-color: #F48FB1;
+        background-color: #5F9EA0;
         border-bottom: 0.3px solid black;
         border-top: 0.3px solid black;
 		text-align: center;
@@ -25,14 +25,14 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #f4f4f4;
+  background-color: #B6D0E2;
   color: #333;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #9F2B68;
+  background-color: #008080;
   color: white;
   padding: 20px 10px;
   text-align: center;
@@ -74,7 +74,7 @@ ul {
 }
 
 footer {
-  background-color: #9F2B68;
+  background-color: #008080;
   color: white;
   text-align: center;
   padding: 10px;
